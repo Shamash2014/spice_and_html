@@ -1,0 +1,35 @@
+header{
+	text-align: center;
+}
+h1{
+	color:#D42323;	
+}
+
+h2{
+	font-style: italic;
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	font-family: sans-serif;
+}
+
+ul{
+	padding-left: 60px;
+	font-size: 20px;
+	line-height: 30px;
+}
+img{
+	height: 30%;
+	width: 30%;
+}
+em{
+	font-weight: bold;
+}
+.main-list{
+	text-align: center;
+}
+a{
+	font-color:red;
+}
