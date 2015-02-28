@@ -12,4 +12,5 @@ List will grow after I finish or add some cources.
 5. [Try R](http://tryr.codeschool.com/levels/1/challenges/2).
 6. [Agile](http://www.agile-process.org)
 7. [Begining Python](http://learn.adicu.com/python/).
+8. [Simple git guide](http://rogerdudler.github.io/git-guide/)
 
