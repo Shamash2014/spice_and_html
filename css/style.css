@@ -1,4 +1,4 @@
-header{
+header, article{
 	text-align: center;
 }
 h1{
@@ -32,4 +32,7 @@ em{
 }
 a{
 	font-color:red;
+}
+strong{
+	text-color:green;
 }
