@@ -1,9 +1,11 @@
 # spice_and_html
 ## My studyguide to find my way into web-dev
 This is my way to study **HTML / CSS** and then dive into _Javascript_.
+After this I plan to learn some Ruby, then Python and afterwards RoR, Django and Node.js.
+Than comes Zen.
 
 Whole road start from the first step. This is my first steps: 
-List will grow after I finish or add some cources.
+>List will grow after I finish or add some cources.
 
 1. [ Here I begin learning HTML / CSS](https://www.learnhowtoprogram.com)
 2. [Codeacademy](http://www.codecademy.com/)
