@@ -14,5 +14,4 @@ List will grow after I finish or add some cources.
 7. [Begining Python](http://learn.adicu.com/python/).
 8. [Simple git guide](http://rogerdudler.github.io/git-guide/)
 9. [Good Zen CSS](http://www.csszengarden.com)
-
-
+10. [Learning markdown](http://markdowntutorial.com)
