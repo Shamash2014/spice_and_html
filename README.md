@@ -16,4 +16,4 @@ Whole road start from the first step. This is my first steps:
 7. [Begining Python](http://learn.adicu.com/python/).
 8. [Simple git guide](http://rogerdudler.github.io/git-guide/)
 9. [Good Zen CSS](http://www.csszengarden.com)
-10. [Learning markdown](http://markdowntutorial.com)
+10. [Learning markdown](http://markdowntutorial.com) - **already finished**
