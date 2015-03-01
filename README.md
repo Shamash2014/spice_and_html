@@ -19,4 +19,5 @@ Whole road start from the first step. This is my first steps:
 10.[Learning markdown](http://markdowntutorial.com) - **already finished**
 11. [Intro to Clojure](http://www.tryclj.com)
 12. [Good Fullstack python](http://www.fullstackpython.com)
-13. [Try Haskell](http://tryhaskell.org)
+13. [Try Haskell](http://tryhaskell.org) **finished**
+14. [Learn youself Haskell](http://learnyouahaskell.com/introduction)
