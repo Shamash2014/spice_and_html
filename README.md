@@ -16,4 +16,7 @@ Whole road start from the first step. This is my first steps:
 7. [Begining Python](http://learn.adicu.com/python/).
 8. [Simple git guide](http://rogerdudler.github.io/git-guide/)
 9. [Good Zen CSS](http://www.csszengarden.com)
-10. [Learning markdown](http://markdowntutorial.com) - **already finished**
+10.[Learning markdown](http://markdowntutorial.com) - **already finished**
+11. [Intro to Clojure](http://www.tryclj.com)
+12. [Good Fullstack python](http://www.fullstackpython.com)
+13. [Try Haskell](http://tryhaskell.org)
