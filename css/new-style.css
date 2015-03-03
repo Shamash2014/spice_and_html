@@ -1,0 +1,16 @@
+.intro{
+	width:50%;
+	font-style: italic;
+}
+
+.footer{
+
+	width: 60%;
+	font-weight: bold;
+	font-style: italic;
+}
+.important{
+
+	color:red;
+	font-style: italic;
+}
