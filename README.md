@@ -21,3 +21,5 @@ Whole road start from the first step. This is my first steps:
 12. [Good Fullstack python](http://www.fullstackpython.com)
 13. [Try Haskell](http://tryhaskell.org) **finished**
 14. [Learn youself Haskell](http://learnyouahaskell.com/introduction)
+15. [Learn to program](http://everydayutilitarian.com/essays/learn-code/)
+16. [FizzBuz](http://c2.com/cgi/wiki?FizzBuzzTest)
