@@ -26,3 +26,4 @@ for item in range(1, 100):
 		print("FizzBuzz")
 	else:
 		print(item)
+
