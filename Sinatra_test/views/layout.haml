@@ -1,0 +1,19 @@
+!!!
+%html
+	%head
+		%title=@title
+	%body
+		%header
+			%nav
+				%ul
+					%a(href = "/")
+						%li Home
+					%a(href="about")
+						%li About
+					%a(href="contact")
+						%li Contact
+	= yield
+
+
+		%section
+		%footer
