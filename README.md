@@ -23,3 +23,4 @@ Whole road start from the first step. This is my first steps:
 14. [Learn youself Haskell](http://learnyouahaskell.com/introduction)
 15. [Learn to program](http://everydayutilitarian.com/essays/learn-code/)
 16. [FizzBuz](http://c2.com/cgi/wiki?FizzBuzzTest)
+17. [Sinatra](http://code.tutsplus.com/tutorials/singing-with-sinatra--net-18965)
