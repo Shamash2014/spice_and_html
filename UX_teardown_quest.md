@@ -1,3 +1,5 @@
+##UX
+
 1. Who is the key user? This isn't always clear, especially in marketplace sites, so take your best guess.
 
 2. What is that user's number one critical goal when using the site? Be as specific as possible if there are multiple options here, e.g. "to purchase a red wagon" instead of "buy a toy".
@@ -16,7 +18,7 @@
 
 9. What did the site do poorly when allowing the user to accomplish his goal effectively, efficiently and with good satisfaction?
 
-Adding Design
+##Adding Design
 
 1. Open your eyes and ask yourself "who is the user?"
 
