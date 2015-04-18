@@ -15,3 +15,19 @@
 8. What did the site do well to allow the user to accomplish his goal effectively, efficiently and with good satisfaction?
 
 9. What did the site do poorly when allowing the user to accomplish his goal effectively, efficiently and with good satisfaction?
+
+Adding Design
+
+1. Open your eyes and ask yourself "who is the user?"
+
+2. What is the user's critical goal? (or at least what do you think the site owner wants them to do?)
+
+3. Does the visual hierarchy you sketched lead to that goal?
+
+4. What font families are most prominent on the site? (use the WhatFont add-on or your browser's developer tools to inspect this).
+
+5. How do these font families contribute to or take away from the site's flow?
+
+6. How do the line spacings, sizes, colors and weights contribute to or take away from the site's flow?
+
+7. What would you improve to achieve a better hierarchy or flow?
