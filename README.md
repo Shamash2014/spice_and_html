@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spice_and_html
 ## My studyguide to find my way into web-dev
 This is my way to study **HTML / CSS** and then dive into _Javascript_.
@@ -25,3 +26,4 @@ Whole road start from the first step. This is my first steps:
 16. [FizzBuz](http://c2.com/cgi/wiki?FizzBuzzTest)
 17. [Sinatra](http://code.tutsplus.com/tutorials/singing-with-sinatra--net-18965)
 18. [RoR Tutorial](https://www.railstutorial.org/book)
+
