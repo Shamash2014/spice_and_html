@@ -1,18 +1,45 @@
-prod x y = x * y
-printString str = putStrLn str
-printSqrt x = putStrLn ("Sqrt of " ++ show x ++ "=" ++ show(sqrt x))
-printSqrt1 x = 
-	if x < 0
-	then putStrLn "X < 0!"
-	else putStrLn ("Sqrt of " ++ show x ++ "=" ++ show(sqrt x)) 
-printSqrt2 x = case x < 0 of
-	True -> putStrLn "x < 0!"
-	False -> putStrLn ("Sqrt of " ++ show x ++ "=" ++ show(sqrt x))
 
-describeLocation locNumber = case locNumber of
-	1 -> "You are standing in the middle of the Island"
-	2 -> "You are standing between two armies at the field of battle"
+data Location = Home | FriendsYard | Garden
+	deriving(Eq, Show, Read)
+data Direction = North | South  | East | West
+	deriving(Eq, Show, Read)
+data Action = Look | Go | Inventory | Take | Drop | Investigte | Quit | Save | Load | New
+	deriving(Eq, Show, Read)
 
-fUncT x t b = ((7* x^3 - logBase(abs t) 10) / 2.7 * b)
-fUncY t z = (sin t) - (sin z) 
-fUncZ t y = 8.87 * y ^3 + atan(t)
+
+describeLocation :: Location -> String
+describeLocation loc = show loc ++ "\n" ++
+	case loc of
+		Home -> "You are standing in the middle room at the wooden table."
+		FriendsYard -> "You are standing in the front of the night garden behind the small wooden fence."
+		Garden -> "You are in the garden. Garden looks very well: clean, tonsured, cool and wet."
+		otherwise -> "No description available for location" ++ show loc ++ "!"
+	
+	-- Home::
+	--North -> "Garden"
+	--South -> "FiendsYard"
+	--East -> "Home"
+	----West -> "Home"
+	--Garden::
+	--North -> "FriendsYard"
+	--South -> "Home"
+	--East -> "Garden"
+	--West -> "Garden"
+	--FriendsYard::
+	--North -> "Home"
+	--South -> "Garden"
+	--East -> "FriendsYard"
+	--West -> "FriendsYard"
+evalAction :: Action -> String
+evalAction strAct = "Action" ++ strAct ++ "!"
+
+convertStringToAction :: String -> Action
+convertStringToAction str = case reads str of
+	[(x, _)] -> x
+	_ -> Quit
+
+
+run = do
+	putStr "Enter command":
+	x <- getLine
+	putStr (evalAction (convertStringToAction x))
